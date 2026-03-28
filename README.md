@@ -8,6 +8,7 @@ README
    - Kosinüs Teoremi
    - Birim Çember Üzerinde Çalışma
 2. Tema: İstatistiksel Araştırma Süreci
+   - Frekans Tablosu Oluşturma ve Göreli Frekans
 3. Tema: Sayılar
 4. Tema: Nicelikler ve Değişimler
 5. Tema: Sayma Algoritma ve Bilişim

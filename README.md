@@ -22,6 +22,9 @@ Bu repository'nin amacı Türkiye'de liselerde (ortaöğretim) okutulan matemati
    - Frekans Tablosu Oluşturma ve Göreli Frekans
    - Sütun Grafiği, Daire Grafiği ve Nokta Grafiği
 3. Tema: Sayılar
+   - Bölenler, EBOB ve EKOK
+   - Asal Sayılar ve Asal Çarpanlar
+   - Bölünebilme Kuralları
 4. Tema: Nicelikler ve Değişimler
 5. Tema: Sayma Algoritma ve Bilişim
 6. Tema: Analitik İnceleme

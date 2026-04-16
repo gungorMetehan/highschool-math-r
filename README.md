@@ -26,6 +26,9 @@ Bu repository'nin amacı Türkiye'de liselerde (ortaöğretim) okutulan matemati
    - Asal Sayılar ve Asal Çarpanlar
    - Bölünebilme Kuralları
 4. Tema: Nicelikler ve Değişimler
+   - Eğim ve Doğrusal Grafik
+   - Oran ve Orantı
+   - Fonksiyonun Türü
 5. Tema: Sayma Algoritma ve Bilişim
 6. Tema: Analitik İnceleme
 7. Tema: Veriden Olasılığa

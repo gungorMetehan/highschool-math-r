@@ -1,6 +1,6 @@
 # Sütun Grafiği, Daire Grafiği ve Nokta Grafiği
 
-# Öğrencilerin en sevdiği dersler isimli bir veri seti oluşturalım.
+# Öğrencilerin en sevdiği derslerin listelendiği veri isimli bir veri seti oluşturalım.
 veri <- c(
   "Matematik", "Matematik", "Fizik", "Kimya",
   "Matematik", "Biyoloji", "Fizik", "Matematik",

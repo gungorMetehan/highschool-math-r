@@ -1,4 +1,4 @@
-# Sıralama ile Seçme Arasındaki Fark
+# Seçme ve Kombinasyon
 
 # Beş fakültenin her ikisi arasına bir yol: AB ve BA aynı yoldur.
 fakulteler <- c("A", "B", "C", "D", "E")

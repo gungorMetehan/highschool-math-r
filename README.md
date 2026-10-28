@@ -30,8 +30,15 @@ Bu repository'nin amacı Türkiye'de liselerde (ortaöğretim) okutulan matemati
    - [Oran ve Orantı](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_4_nicelikler_ve_degisimler/2_oran_ve_oranti.R)
    - [Fonksiyonun Türü](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_4_nicelikler_ve_degisimler/3_fonksiyonun_turu.R)
 5. Tema: Sayma, Algoritma ve Bilişim
-6. Tema: Analitik İnceleme
-7. Tema: Veriden Olasılığa
+   - [Faktöriyel ve Nesnelerin Sıralanması](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_5_sayma_algoritma_ve_bilisim/1_faktoriyel_ve_nesnelerin_siralanmasi.R)
+   - [Seçme ve Kombinasyon](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_5_sayma_algoritma_ve_bilisim/2_secme_ve_kombinasyon.R)
+   - [Pascal Üçgeni](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_5_sayma_algoritma_ve_bilisim/3_pascal_ucgeni.R)
+   - [Mantık Bağlaçları, Niceleyiciler ve Karar Verme](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_5_sayma_algoritma_ve_bilisim/4_mantik_baglaclari_niceleyiciler_ve_karar_verme.R)
+   - [Döngülerle Toplam ve Basamak Sayısı](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_5_sayma_algoritma_ve_bilisim/5_dongulerle_toplam_ve_basamak_sayisi.R)
+   - [Ortalama Alarak Kök Bulma](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_5_sayma_algoritma_ve_bilisim/6_ortalama_alarak_kok_bulma.R)
+   - [Babil Metodu ile Karekök Yaklaşımı](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_5_sayma_algoritma_ve_bilisim/7_babil_metodu_ile_karekok_yaklasimi.R)
+7. Tema: Analitik İnceleme
+8. Tema: Veriden Olasılığa
 
 ## 11. Sınıf
 1. Tema: İstatistiksel Araştırma Süreci

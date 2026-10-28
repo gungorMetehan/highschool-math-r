@@ -29,6 +29,6 @@ Bu repository'nin amacı Türkiye'de liselerde (ortaöğretim) okutulan matemati
    - [Eğim ve Doğrusal Grafik](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_4_nicelikler_ve_degisimler/1_egim_ve_dogrusal_grafik.R)
    - [Oran ve Orantı](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_4_nicelikler_ve_degisimler/2_oran_ve_oranti.R)
    - [Fonksiyonun Türü](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_4_nicelikler_ve_degisimler/3_fonksiyonun_turu.R)
-5. Tema: Sayma Algoritma ve Bilişim
+5. Tema: Sayma, Algoritma ve Bilişim
 6. Tema: Analitik İnceleme
 7. Tema: Veriden Olasılığa

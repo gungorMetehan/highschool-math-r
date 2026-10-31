@@ -38,7 +38,12 @@ Bu repository'nin amacı Türkiye'de liselerde (ortaöğretim) okutulan matemati
    - [Ortalama Alarak Kök Bulma](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_5_sayma_algoritma_ve_bilisim/6_ortalama_alarak_kok_bulma.R)
    - [Babil Metodu ile Karekök Yaklaşımı](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_5_sayma_algoritma_ve_bilisim/7_babil_metodu_ile_karekok_yaklasimi.R)
 7. Tema: Analitik İnceleme
-8. Tema: Veriden Olasılığa
+   - [İki Nokta Arasındaki Uzaklık](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_6_analitik_inceleme/1_iki_nokta_arasindaki_uzaklik.R)
+   - [İçten Bölme, Orta Nokta ve Ağırlık Merkezi](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_6_analitik_inceleme/2_icten_bolme_orta_nokta_ve_agirlik_merkezi.R)
+   - [Eğim ve Eğim Açısı](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_6_analitik_inceleme/3_egim_ve_egim_acisi.R)
+   - [Doğru Denklemi ve Doğruların Durumu](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_6_analitik_inceleme/4_dogru_denklemi_ve_dogrularin_durumu.R)
+   - [Gerçek Yaşamda Doğrusal Modeller](https://github.com/gungorMetehan/highschool-math-r/blob/main/sinif_10/tema_6_analitik_inceleme/5_gercek_yasamda_dogrusal_modeller.R)
+9. Tema: Veriden Olasılığa
 
 ## 11. Sınıf
 1. Tema: İstatistiksel Araştırma Süreci
